@@ -1,3 +1,3 @@
-#Python Power Up - Jornada Python
+# Python Power Up - Jornada Python
 
-##Jornada Python da Hashtag
+## Jornada Python da Hashtag
